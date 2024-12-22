@@ -1,4 +1,15 @@
 {
   "_base": "https://raw.githubusercontent.com/TristanCacqueray/mirus/main/",
-  "small-plate": "ir/small-plate.wav"
+  "small-plate": "ir/small-plate.wav",
+  "get-it-wet": "ir/get-it-wet.wav",
+  "sillica-beads": "ir/sillica-beads.wav",
+  "haunted": {
+    "C2": "haunted/C2.wav",
+    "F2": "haunted/F2.wav",
+    "G2": "haunted/G2.wav",
+    "C3": "haunted/C3.wav",
+    "F3": "haunted/F3.wav",
+    "G3": "haunted/G3.wav",
+    "C4": "haunted/C4.wav"
+  }
 }
